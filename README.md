@@ -19,7 +19,7 @@ Currently conducting a literature review of the Methanol-to-Jet process, oligome
 
 ## Selected Academic Projects
 
-- **ABE Fermentation–Flash Process Control** — Developed and linearized a seven-state nonlinear process model in MATLAB/Simulink; compared PI tuning methods and evaluated feedforward control. *(Team project)*
+- **[ABE Fermentation–Flash Process Control](https://github.com/sprjnm/abe-fermentation-process-control)** — Developed and linearized a seven-state nonlinear process model in MATLAB/Simulink; compared PI tuning methods and evaluated feedforward control. *(Team project)*
 - **[Transient Thermal Modeling of a Cylindrical Battery](https://github.com/sprjnm/battery-thermal-modeling-matlab)** — Implemented explicit and Crank–Nicolson finite-difference methods in MATLAB. *(Individual project)*
 - **Passive Micromixer CFD** — Simulated laminar flow and species transport in COMSOL Multiphysics. *(Team project)*
 - **Shell-and-Tube Heat Exchanger Design** — Performed thermal–hydraulic design using Aspen HYSYS and Aspen EDR. *(Team project)*
